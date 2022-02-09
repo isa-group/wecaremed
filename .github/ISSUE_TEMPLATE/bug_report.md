@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: needs-triage
-assignees: MaToSan24
+assignees: LuisUsrDev, MaToSan24
 
 ---
 
